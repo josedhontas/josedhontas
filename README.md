@@ -1,5 +1,5 @@
 ### Oi! Eu me chamo José Dhonatas 👋
-### O meu portifólio pode ser encontrado [aqui](https://josedhonatas.me/)
+### O meu portifólio pode ser encontrado [aqui](https://dhonatas.tech/)
 
 
 <div>
